@@ -9,9 +9,9 @@ PWA
 <ul>Node.js</ul>
 <ul>MongoDB</ul>
 <ul>Insominia</ul>
-<ul>Git</ul>
+<ul>Git</ul>z.c
 <ul>GitHub Reop:
 
 
 ## image
-<img src="budgetqtracker.png>
+<img src="../public/assets/budgetqtracker.png" >
