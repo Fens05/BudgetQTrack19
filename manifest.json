@@ -1,0 +1,14 @@
+ new WebpackPwaManfiest({
+    name: "BudgetQTracker",
+    short_name:"Budget",
+    theme_color:"#015798,
+    background_color:"#00ff99":, 
+    start_url:"../index.html", 
+    display: {},
+    icons:"[{
+        src: path.resolve("public/icons/icon-512x512"),
+        sizes: [72,96,128,144,152,192,384],
+        destination: path.join("public", "icons")
+    }]
+})
+    
